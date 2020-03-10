@@ -1,0 +1,24 @@
+
+html {
+
+}
+body {
+	margin: 0px;
+}
+div {
+	width: 760px;
+	height: 300px;
+	border: 1px solid #000;
+	margin-top: 275px; 
+	margin-left: 315px;
+
+}
+div img {
+	width: 242px;
+	border: 1px solid lightblue;
+	margin-left: 5px;
+}
+div img:hover {
+	transform: scale(1.2);
+	transition: 2s;
+}
